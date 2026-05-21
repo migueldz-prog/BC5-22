@@ -1,0 +1,7 @@
+BC5-22 - ChoiceDialog
+
+Dialogo  con lista desplegable de opciones.
+
+Se crea un boton donde su setOnAction sera abrir un ChoiceDialog con diferentes opciones a elegir, en este caso son asignaturas.
+Cuando elijas una opcion se hara un print por consola con la opcion seleccionada.
+Se usa vbox para colocar y se crea la escena para la ventana.
